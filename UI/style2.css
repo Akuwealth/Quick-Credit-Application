@@ -87,7 +87,7 @@ header a {
 #box2 {
 	
 	height: 500px;
-	background-image: url("../images/Student4.jpg");	
+	background-image: url("Student4.jpg");	
 	background-size: cover;
 	margin: 0;
 	font-color: blue;
@@ -95,7 +95,7 @@ header a {
 }
  #faqs {
  	height: 950px;
-	background-image: url("../images/New-car.jpg");	
+	background-image: url("New-car.jpg");	
 	background-size: cover;
 	margin: 0;
 	text-indent: 50px;
@@ -113,7 +113,7 @@ header a {
 
 #box3 {
 	height: 500px;
-	background-image: url("../images/San Diego.jpg");	
+	background-image: url("San Diego.jpg");	
 	background-size: cover;
 	margin: 0;
 	text-indent: 30px;
@@ -121,7 +121,7 @@ header a {
 
 #box5 {
 	height: 500px;
-	background-image: url("../images/San Diego.jpg");	
+	background-image: url("San Diego.jpg");	
 	background-size: cover;
 	margin: 0;
 	text-indent: 30px;
