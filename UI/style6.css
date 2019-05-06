@@ -6,7 +6,7 @@
 
 header {
 	width: auto;
-	height: 60px;
+	height: 40px;
 	background-color: none;
 	background-image: none;
 	background-size: cover;
@@ -18,8 +18,8 @@ header a {
 	text-decoration: none;
 }
 #logo1 {
-	width: 30px;
-	height: 30px;
+	width: 20px;
+	height: 20px;
 }
 
 #title {
@@ -29,14 +29,15 @@ header a {
 #box1 {
 	
 	height: 30px;
-	background-color:none;
+	background-color: red;
 	margin: 0;
+	padding: 5px;
 }
 
 #MyLinks {
 	
 	height: 30px;
-	background-color: none;
+	background-color: red;
 	margin: 0;
 	padding-top: 5px;
 }
@@ -68,7 +69,7 @@ header a {
 
 #MyLinks li ul li {
 
-	background-color: none;
+	background-color: red;
 
 }
 
@@ -81,7 +82,7 @@ header a {
 	background-color: red;
 }
  #index_bdy {
- 	background-image:none;
+ 	background-image: none;
  	background-size: cover;
  }
 #box2 {
@@ -195,15 +196,15 @@ footer {
 
 	#staff {
 		height: 500px;
-		width: 400;
+		width: auto;
 		background: red;
 		float: left;
 		text-decoration: none;
 	}
-
 	#Data {
 		height: 500px;
 		background: #87CEEB;
+		width: 1650px;
 
 	}#Sidebar {
 		height: 500px;
@@ -211,10 +212,36 @@ footer {
 		background: red;
 		float: left;
 	}
+ #Sidebar li  {
+ 	text-decoration: none;
+ 	padding: 20px;
+ 	padding-bottom: 2px solid grey;
+
+ }
  #Sidebar li a {
  	text-decoration: none;
+ }
+ #adminlogo {
+ 	height: 70px;
+ 	width: 1650px;
+ 	background:blue;
+ }
+
+ #staffimg {
+ 	border-radius: 30px;
+ }
+
+ #Row1 {
+ 	padding: 5px;
+ }
+
+ #Row2 {
  	padding: 10px;
  }
- #staffimg {
- 	size: 5px;
+ #box7 {
+ 	width: 1650px;
+ }
+
+ #table {
+ 	padding: 5px;
  }

@@ -36,7 +36,7 @@ header a {
 #MyLinks {
 	
 	height: 30px;
-	background-color: none;
+	background-color: red;
 	margin: 0;
 	padding-top: 5px;
 }
